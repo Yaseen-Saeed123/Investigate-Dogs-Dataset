@@ -1,2 +1,7 @@
-# Investigate-Movies-Dataset
-This project was analyzing three datasets about movies and concluding the insights. Check the README file to learn more
+# Investigate Dogs Datasets
+Languages used: python
+Modules used: pandas, numpy, matplotlib, seaborn
+
+# Quick description of the project
+### 1. Questions
+
